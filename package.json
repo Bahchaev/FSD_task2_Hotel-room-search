@@ -1,0 +1,19 @@
+{
+  "name": "fsd_task2_hotel-room-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bahchaev/FSD_task2_Hotel-room-search.git"
+  },
+  "author": "BahchaevAS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bahchaev/FSD_task2_Hotel-room-search/issues"
+  },
+  "homepage": "https://github.com/Bahchaev/FSD_task2_Hotel-room-search#readme"
+}
